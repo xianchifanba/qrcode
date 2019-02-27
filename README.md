@@ -1,5 +1,5 @@
 
-#Note
+# Note
 This project's target is to make a web version of the artistic qrcode generator. It will use Flask as the web framework.
 
 Below is the README of the original qrcode project.
